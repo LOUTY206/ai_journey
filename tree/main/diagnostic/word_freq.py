@@ -1,6 +1,4 @@
 from argparse import ArgumentParser
-from string import punctuation
-from pprint import pprint
 from pathlib import Path
 
 parser = ArgumentParser()
